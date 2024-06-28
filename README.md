@@ -92,6 +92,7 @@ conWeather is developed by Nuncio Bitis (aka Jim Parziale).
 ## Resources
 
 GitHub: https://github.com/nuncio-bitis/conWeather
+GitLab: https://gitlab.com/nuncio-bitis/conWeather
 
 [1]: screenshot-full.png
 [2]: screenshot-short.png
