@@ -93,10 +93,10 @@ conWeather is developed by Nuncio Bitis (aka Jim Parziale).
 
 GitHub: https://github.com/nuncio-bitis/conWeather
 
-[1]: https://github.com/nuncio-bitis/conWeather/screenshot-full.png
-[2]: https://github.com/nuncio-bitis/conWeather/screenshot-short.png
-[3]: https://github.com/nuncio-bitis/conWeather/screenshot-tiny.png
-[4]: https://github.com/nuncio-bitis/conWeather/screenshot-1line.png
+[1]: screenshot-full.png
+[2]: screenshot-short.png
+[3]: screenshot-tiny.png
+[4]: screenshot-1line.png
 
 [5]: https://stedolan.github.io/jq/
 [6]: https://openweathermap.org/api/
