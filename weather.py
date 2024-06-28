@@ -50,10 +50,10 @@
 # 3) Open Meteo: https://open-meteo.com/ (not implemented)
 ###############################################################################
 
-# @NOTE Choose which weather service module to use.
+# @TODO Choose which weather service module to use.
 # Import service-specific API
-from weatherAPI import *    # @NOTE
-# from weatherOWM import *    # @NOTE
+# from weatherAPI import *    # @NOTE
+from weatherOWM import *    # @NOTE
 
 import os
 import sys
