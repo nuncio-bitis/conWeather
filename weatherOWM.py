@@ -39,7 +39,7 @@ from weatherConversions import *
 
 # @TODO Change this key to an OpenWeatherMap API 3.0 key
 # Generic OpenWeatherMap API 2.5 key
-API_KEY="85a4e3c55b73909f42c6a23ec35b7147"
+API_KEY=None #"85a4e3c55b73909f42c6a23ec35b7147"
 
 UNITS="imperial" # standard (Kelvin, default), metric (Celcius), imperial (Fahrenheit)
 
